@@ -6,6 +6,6 @@ see script kontrollib regulaarsed, kas ip on saadav
 ## nõuded
 -python
 -windows keskkond
-##kasutamine
+## kasutamine
 -laadida script alla
 -käivita script
